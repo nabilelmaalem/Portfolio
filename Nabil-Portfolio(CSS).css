@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: #2b323c;
+}
+
+/* Typing Animation */
+.TypingAnimation{
+    width: 100%;
+    height: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.TypingAnimation h1{
+    font-size: 80px;
+    font-weight: 600;
+}
+
+span{
+    color: #966FD6;
+}
+
+
+/* Accordion Item List (Professional Experience) */
+.accordionItem_title h6 {
+    width: 90%;
+  }
+  .accordionItem_title h6 > div {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+  
